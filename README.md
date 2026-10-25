@@ -1,7 +1,12 @@
+<!-- Animated Wave Banner at the Very Top -->
+<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=Jamil%20Alamin%20Ahmedin&fontSize=35&fontColor=ffffff&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%" />
+
 <div align="center">
 
-# 👋 Hi, I'm Jamil Alamin Ahmedin
-### **Software Engineer & Data Engineering Enthusiast**
+<!-- Animated Typing Effect for Your Title -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Data+Engineering+Enthusiast;AI+Voice+Agent+Builder" alt="Typing SVG" />
+
+<p></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamil-alamin-ahmedin)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamil.alamin.ahmedin@gmail.com)
@@ -16,7 +21,7 @@
 * **Collaborating On:** Open-source data engineering pipelines and complex backend architectures.
 * **Seeking Help With:** Scaling and optimizing real-time voice-streaming data processing workloads.
 * **Ask Me About:** Backend development, AI integrations, custom API endpoints, and PostgreSQL schemas.
-* **Fun Fact:** I speak four languages—native **Tigrinya** and **Arabic**, fluent **English**, and basic **German**
+* **Fun Fact:** I speak four languages—native **Tigrinya** and **Arabic**, fluent **English**, and basic **German**!
 
 ---
 
@@ -68,7 +73,7 @@
   <a href="https://github.com/Ahmedin-Jamil/real-time-stocks-mds">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmedin-Jamil&repo=real-time-stocks-mds&theme=dark" />
   </a>
-  <a href="https://github.com/Ahmedin-Jamil/Databricks_Jamil-1">
+  <a href="https://github.com/Ahmedin-Jamil&repo=Databricks_Jamil-1">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmedin-Jamil&repo=Databricks_Jamil-1&theme=dark" />
   </a>
 </div>
