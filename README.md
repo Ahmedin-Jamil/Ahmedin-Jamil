@@ -100,12 +100,12 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Ahmedin-Jamil&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Ahmedin-Jamil&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Ahmedin-Jamil&theme=dark&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&rank_icon=true&custom_title=GitHub%20Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Ahmedin-Jamil&theme=dark&hide_border=true&mode=weekly" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmedin-Jamil&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="60%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmedin-Jamil&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact&size_weight=50&langs_count=6" width="55%" />
 </p>
 
 </div>
@@ -115,11 +115,11 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmedin-Jamil&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmedin-Jamil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmedin-Jamil&color=38BDF8&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ahmedin-Jamil&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
