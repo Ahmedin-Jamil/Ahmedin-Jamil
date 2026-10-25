@@ -82,7 +82,7 @@
 
 ---
 
-### ⚡ Featured Repositories & Highlights
+### ⚡ Featured Repositories
 
 <div align="center">
   <a href="https://github.com/Ahmedin-Jamil/real-time-stocks-mds">
@@ -95,31 +95,30 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Trophies
 
 <div align="center">
 
+<!-- Row 1: Core Stats and Streaks side-by-side -->
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Ahmedin-Jamil&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Ahmedin-Jamil&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Ahmedin-Jamil&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Ahmedin-Jamil&theme=dark&hide_border=true" width="49%" />
 </p>
 
+<!-- Row 2: Top Languages and Trophies side-by-side to compress spacing -->
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmedin-Jamil&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="60%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmedin-Jamil&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="45%" valign="top" />
+  <img src="https://vercel.app" width="53%" valign="top" />
 </p>
 
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmedin-Jamil&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</div>
+<!-- Row 3: Repository Contributions condensed -->
+<p align="center">
+  <img src="https://vercel.app" width="75%" />
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmedin-Jamil&color=38BDF8&style=flat-square" alt="Profile Views" />
+<!-- Visitor Tracking Tag -->
+<img src="https://komarev.com/ghpvc/?username=Ahmedin-Jamil&color=38BDF8&style=flat-square" alt="Profile Views" />
+
 </div>
