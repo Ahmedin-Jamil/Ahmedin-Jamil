@@ -86,10 +86,10 @@
 
 <div align="center">
   <a href="https://github.com/Ahmedin-Jamil/real-time-stocks-mds">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmedin-Jamil&repo=real-time-stocks-mds&theme=dark&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmedin-Jamil&repo=real-time-stocks-mds&theme=dark&hide_border=true" width="28%" />
   </a>
   <a href="https://github.com/Ahmedin-Jamil/Databricks_Jamil-1">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmedin-Jamil&repo=Databricks_Jamil-1&theme=dark&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmedin-Jamil&repo=Databricks_Jamil-1&theme=dark&hide_border=true" width="28%" />
   </a>
 </div>
 
