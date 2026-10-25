@@ -3,8 +3,9 @@
 
 <div align="center">
 
-<!-- Fixed Typing Effect -->
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=430&lines=Software+Engineer;Data+Engineering+Enthusiast;AI+Voice+Agent+Builder" alt="Typing SVG" /></p>
+### **Software Engineer | Data Engineering Enthusiast | AI Builder**
+
+<p></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamil-alamin-ahmedin)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamil.alamin.ahmedin@gmail.com)
