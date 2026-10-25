@@ -1,63 +1,7 @@
 <div align="center">
 
-<!-- Senior UI/UX Designed Visual Graphic: Cloud, Database Cylinders, and AI/Neural Nodes -->
-<svg width="100%" height="130" viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0F172A" />
-      <stop offset="100%" stop-color="#1E293B" />
-    </linearGradient>
-    <linearGradient id="neonGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8"/>
-      <stop offset="100%" stop-color="#818CF8"/>
-    </linearGradient>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-    </filter>
-  </defs>
-
-  <!-- Sleek Dark Card Background -->
-  <rect width="800" height="130" rx="12" fill="url(#bgGrad)" stroke="#334155" stroke-width="1.5"/>
-
-  <!-- Connecting Data Flow Network Lines -->
-  <path d="M 160 65 L 300 65 M 360 65 L 440 65 M 500 65 L 640 65" stroke="#334155" stroke-width="2.5" stroke-dasharray="4 4"/>
-  <path d="M 160 65 L 300 65" stroke="url(#neonGlow)" stroke-width="3" stroke-dasharray="40 140" filter="url(#glow)">
-    <animate attributeName="stroke-dashoffset" values="180;0" dur="3s" repeatCount="indefinite"/>
-  </path>
-  <path d="M 500 65 L 640 65" stroke="url(#neonGlow)" stroke-width="3" stroke-dasharray="40 140" filter="url(#glow)">
-    <animate attributeName="stroke-dashoffset" values="180;0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
-  </path>
-
-  <!-- SHAPE 1: Database Cylinders (Left Object) -->
-  <g transform="translate(110, 42)" fill="none" stroke="#38BDF8" stroke-width="2">
-    <ellipse cx="20" cy="8" rx="20" ry="7" fill="#0EA5E9" fill-opacity="0.2"/>
-    <path d="M 0 8 v 16 c 0 4 9 7 20 7 s 20 -3 20 -7 V 8"/>
-    <ellipse cx="20" cy="20" rx="20" ry="7" fill="#0EA5E9" fill-opacity="0.2"/>
-    <path d="M 0 20 v 16 c 0 4 9 7 20 7 s 20 -3 20 -7 V 20"/>
-  </g>
-
-  <!-- SHAPE 2: AI / Neural Brain Node (Center Object) -->
-  <g transform="translate(315, 38)" filter="url(#glow)">
-    <circle cx="25" cy="25" r="22" fill="#818CF8" fill-opacity="0.15" stroke="#818CF8" stroke-width="2"/>
-    <!-- Inner neural nodes -->
-    <circle cx="25" cy="13" r="4" fill="#38BDF8"/>
-    <circle cx="13" cy="32" r="4" fill="#818CF8"/>
-    <circle cx="37" cy="32" r="4" fill="#38BDF8"/>
-    <line x1="25" y1="13" x2="13" y2="32" stroke="#38BDF8" stroke-width="1.5"/>
-    <line x1="25" y1="13" x2="37" y2="32" stroke="#818CF8" stroke-width="1.5"/>
-    <line x1="13" y1="32" x2="37" y2="32" stroke="#818CF8" stroke-width="1.5"/>
-  </g>
-
-  <!-- SHAPE 3: Cloud Infrastructure Object (Right Object) -->
-  <g transform="translate(635, 43)" stroke="#38BDF8" stroke-width="2" fill="#38BDF8" fill-opacity="0.15">
-    <path d="M 12 32 h 24 a 10 10 0 0 0 0 -20 a 12 12 0 0 0 -22 -4 a 10 10 0 0 0 -2 18 z"/>
-  </g>
-
-  <!-- Typography Titles inside Banner -->
-  <text x="400" y="52" fill="#F8FAFC" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Jamil Alamin Ahmedin</text>
-  <text x="400" y="78" fill="#38BDF8" font-family="Fira Code, monospace" font-size="13" font-weight="600" letter-spacing="1.5" text-anchor="middle">BACKEND SYSTEMS &bull; REAL-TIME DATA &bull; AI ARCHITECTURE</text>
-</svg>
+<!-- Senior UI/UX Visual Graphic Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,23,42,30&height=130&section=header&text=Jamil%20Alamin%20Ahmedin&fontSize=32&fontColor=38BDF8&fontAlignY=35&desc=BACKEND%20SYSTEMS%20•%20REAL-TIME%20DATA%20•%20AI%20ARCHITECTURE&descSize=13&descColor=818CF8&descAlignY=68&animation=fadeIn&fontAlign=50" width="100%" />
 
 <p></p>
 
