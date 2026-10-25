@@ -16,7 +16,7 @@
 * **Collaborating On:** Open-source data engineering pipelines and complex backend architectures.
 * **Seeking Help With:** Scaling and optimizing real-time voice-streaming data processing workloads.
 * **Ask Me About:** Backend development, AI integrations, custom API endpoints, and PostgreSQL schemas.
-* **Fun Fact:** I speak four languages—native **Tigrinya** and **Arabic**, fluent **English**, and basic **German**!
+* **Fun Fact:** I speak four languages—native **Tigrinya** and **Arabic**, fluent **English**, and basic **German**
 
 ---
 
