@@ -105,7 +105,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmedin-Jamil&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="30%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmedin-Jamil&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="40%" />
 </p>
 
 </div>
