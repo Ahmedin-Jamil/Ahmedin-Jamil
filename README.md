@@ -3,10 +3,8 @@
 
 <div align="center">
 
-<!-- Animated Typing Effect for Your Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Data+Engineering+Enthusiast;AI+Voice+Agent+Builder" alt="Typing SVG" />
-
-<p></p>
+<!-- Fixed Typing Effect -->
+<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=430&lines=Software+Engineer;Data+Engineering+Enthusiast;AI+Voice+Agent+Builder" alt="Typing SVG" /></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamil-alamin-ahmedin)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamil.alamin.ahmedin@gmail.com)
@@ -73,7 +71,7 @@
   <a href="https://github.com/Ahmedin-Jamil/real-time-stocks-mds">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmedin-Jamil&repo=real-time-stocks-mds&theme=dark" />
   </a>
-  <a href="https://github.com/Ahmedin-Jamil&repo=Databricks_Jamil-1">
+  <a href="https://github.com/Ahmedin-Jamil/Databricks_Jamil-1">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmedin-Jamil&repo=Databricks_Jamil-1&theme=dark" />
   </a>
 </div>
