@@ -42,7 +42,7 @@
   </circle>
 </svg>
 
-# Hi, I'm Jamil Alamin Ahmedin 👋
+# Hi, I'm Jamil Alamin 👋
 
 <!-- Stable, Non-Truncating Typing Effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Backend+Systems+%26+APIs;Real-Time+Data+Pipelines;AI+Voice+Agent+Architecture" alt="Typing SVG" />
