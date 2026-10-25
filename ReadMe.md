@@ -71,20 +71,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=Ahmedin-Jamil&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-  <!-- Node Circles representing Database/Cloud/AI hubs -->
-  <circle cx="150" cy="45" r="6" fill="#38BDF8" filter="url(#glow)"/>
-  <circle cx="300" cy="45" r="8" fill="#818CF8" filter="url(#glow)"/>
-  <circle cx="450" cy="45" r="6" fill="#38BDF8" filter="url(#glow)"/>
-  <circle cx="600" cy="45" r="8" fill="#818CF8" filter="url(#glow)"/>
-
-  <!-- Pulsing rings around center nodes -->
-  <circle cx="300" cy="45" r="14" fill="none" stroke="#818CF8" stroke-width="1.5" opacity="0.6">
-    <animate attributeName="r" values="8;22" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="600" cy="45" r="14" fill="none" stroke="#38BDF8" stroke-width="1.5" opacity="0.6">
-    <animate attributeName="r" values="8;22" dur="2s" begin="1s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0" dur="2s" begin
