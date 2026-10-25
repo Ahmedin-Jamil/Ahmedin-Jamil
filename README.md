@@ -1,5 +1,5 @@
-<!-- Animated Wave Banner at the Very Top -->
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=Jamil%20Alamin%20Ahmedin&fontSize=35&fontColor=ffffff&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%" />
+<!-- Bulletproof Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=wavy&color=0d1117&height=160&section=header&text=Jamil%20Alamin%20Ahmedin&fontSize=38&fontColor=38BDF8&animation=scaleIn&fontAlign=50&fontAlignY=40" width="100%" />
 
 <div align="center">
 
