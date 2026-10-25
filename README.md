@@ -1,10 +1,51 @@
-<!-- Animated Wave & Gradient Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30&height=140&section=header&text=Jamil%20Alamin%20Ahmedin&fontSize=38&fontColor=38BDF8&fontAlignY=35&animation=fadeIn&fontAlign=50" width="100%" />
-
 <div align="center">
 
-<!-- Compact & Stable Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Backend+%26+Systems+Engineer;AI+Voice+Agent+Architecture;Real-Time+Data+Pipelines" alt="Typing SVG" />
+<!-- Futuristic Animated SVG Accent: Neural Network / Data Cloud Flow -->
+<svg width="100%" height="90" viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background subtle track line -->
+  <line x1="100" y1="45" x2="700" y2="45" stroke="#1E293B" stroke-width="3" stroke-dasharray="6 6"/>
+
+  <!-- Animated data stream pulse moving across -->
+  <line x1="100" y1="45" x2="700" y2="45" stroke="url(#grad)" stroke-width="4" stroke-dasharray="120 480" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" values="600;0" dur="4s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Node Circles representing Database/Cloud/AI hubs -->
+  <circle cx="150" cy="45" r="6" fill="#38BDF8" filter="url(#glow)"/>
+  <circle cx="300" cy="45" r="8" fill="#818CF8" filter="url(#glow)"/>
+  <circle cx="450" cy="45" r="6" fill="#38BDF8" filter="url(#glow)"/>
+  <circle cx="600" cy="45" r="8" fill="#818CF8" filter="url(#glow)"/>
+
+  <!-- Pulsing rings around center nodes -->
+  <circle cx="300" cy="45" r="14" fill="none" stroke="#818CF8" stroke-width="1.5" opacity="0.6">
+    <animate attributeName="r" values="8;22" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="45" r="14" fill="none" stroke="#38BDF8" stroke-width="1.5" opacity="0.6">
+    <animate attributeName="r" values="8;22" dur="2s" begin="1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0" dur="2s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+</svg>
+
+# Hi, I'm Jamil Alamin Ahmedin 👋
+
+<!-- Stable, Non-Truncating Typing Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Backend+Systems+%26+APIs;Real-Time+Data+Pipelines;AI+Voice+Agent+Architecture" alt="Typing SVG" />
 
 <p></p>
 
