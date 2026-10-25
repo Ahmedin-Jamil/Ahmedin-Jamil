@@ -1,9 +1,10 @@
-<!-- Bulletproof Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=0d1117&height=160&section=header&text=Jamil%20Alamin%20Ahmedin&fontSize=38&fontColor=38BDF8&animation=scaleIn&fontAlign=50&fontAlignY=40" width="100%" />
+<!-- Animated Wave Banner at the Very Top -->
+<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=Jamil%20Alamin%20Ahmedin&fontSize=35&fontColor=ffffff&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%" />
 
 <div align="center">
 
-### **Software Engineer | Data Engineering Enthusiast | AI Builder**
+<!-- Animated Typing Effect for Your Title -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Data+Engineering+Enthusiast;AI+Voice+Agent+Builder" alt="Typing SVG" />
 
 <p></p>
 
@@ -72,7 +73,7 @@
   <a href="https://github.com/Ahmedin-Jamil/real-time-stocks-mds">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmedin-Jamil&repo=real-time-stocks-mds&theme=dark" />
   </a>
-  <a href="https://github.com/Ahmedin-Jamil/Databricks_Jamil-1">
+  <a href="https://github.com/Ahmedin-Jamil&repo=Databricks_Jamil-1">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmedin-Jamil&repo=Databricks_Jamil-1&theme=dark" />
   </a>
 </div>
