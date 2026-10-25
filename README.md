@@ -1,10 +1,10 @@
-<!-- Animated Wave Banner at the Very Top -->
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=Jamil%20Alamin%20Ahmedin&fontSize=35&fontColor=ffffff&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%" />
+<!-- Animated Wave & Gradient Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30&height=140&section=header&text=Jamil%20Alamin%20Ahmedin&fontSize=38&fontColor=38BDF8&fontAlignY=35&animation=fadeIn&fontAlign=50" width="100%" />
 
 <div align="center">
 
-<!-- Animated Typing Effect for Your Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+%26+Real-Time+Data;AI+Voice+Agent+Builder" alt="Typing SVG" />
+<!-- Compact & Stable Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Backend+%26+Systems+Engineer;AI+Voice+Agent+Architecture;Real-Time+Data+Pipelines" alt="Typing SVG" />
 
 <p></p>
 
