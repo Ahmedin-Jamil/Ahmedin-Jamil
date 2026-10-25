@@ -86,10 +86,10 @@
 
 <div align="center">
   <a href="https://github.com/Ahmedin-Jamil/real-time-stocks-mds">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmedin-Jamil&repo=real-time-stocks-mds&theme=dark&hide_border=true" width="28%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmedin-Jamil&repo=real-time-stocks-mds&theme=dark&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/Ahmedin-Jamil/Databricks_Jamil-1">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmedin-Jamil&repo=Databricks_Jamil-1&theme=dark&hide_border=true" width="28%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmedin-Jamil&repo=Databricks_Jamil-1&theme=dark&hide_border=true" width="48%" />
   </a>
 </div>
 
@@ -100,12 +100,12 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Ahmedin-Jamil&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Ahmedin-Jamil&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="28%" />
   <img src="https://streak-stats.demolab.com/?user=Ahmedin-Jamil&theme=dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmedin-Jamil&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="60%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmedin-Jamil&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="30%" />
 </p>
 
 </div>
