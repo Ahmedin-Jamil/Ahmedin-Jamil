@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Futuristic Animated SVG Accent: Neural Network / Data Cloud Flow -->
-<svg width="100%" height="40" viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="90" viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.2"/>
