@@ -1,15 +1,36 @@
-<div align="center">
-  <img
-    src="./assets/header.svg"
-    alt="Jamil Alamin Ahmedin — Backend and API Developer, Data Engineering, AI Voice Agents"
-    width="100%"
-  />
 
-  <br/>
-
-  <a href="https://linkedin.com/in/jamil-alamin-ahmedin">LinkedIn</a> ·
-  <a href="mailto:jamil.al.amin1100@gmail.com">Email</a> ·
-  <a href="https://www.datacamp.com/">DataCamp</a>
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071426"/>
+      <stop offset="100%" stop-color="#10102b"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#00ffa3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <g fill="none" stroke="#183553" stroke-width="1">
+    <path d="M0 60 H1200 M0 120 H1200 M0 180 H1200 M0 240 H1200"/>
+    <path d="M100 0 V300 M200 0 V300 M300 0 V300 M400 0 V300 M500 0 V300 M600 0 V300 M700 0 V300 M800 0 V300 M900 0 V300 M1000 0 V300 M1100 0 V300"/>
+  </g>
+  <rect x="35" y="35" width="1130" height="230" rx="18" fill="none" stroke="url(#neon)" stroke-opacity=".7"/>
+  <circle cx="95" cy="80" r="5" fill="#00e5ff">
+    <animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1105" cy="220" r="5" fill="#8b5cf6">
+    <animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M70 210 H250 L290 170 H390 M810 170 H910 L950 210 H1130" fill="none" stroke="url(#neon)" stroke-width="2" stroke-dasharray="10 8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-72" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="105" text-anchor="middle" fill="#8be9ff" font-family="monospace" font-size="17" letter-spacing="5">BACKEND • DATA • AI</text>
+  <text x="600" y="158" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">JAMIL ALAMIN AHMEDIN</text>
+  <text x="600" y="193" text-anchor="middle" fill="#c4b5fd" font-family="Arial, Helvetica, sans-serif" font-size="19">Backend &amp; API Developer | Data Engineering | AI Voice Agents</text>
+  <text x="600" y="230" text-anchor="middle" fill="#67e8f9" font-family="monospace" font-size="13">BUILDING SYSTEMS THAT CONNECT DATA, APIS AND INTELLIGENCE</text>
+  <path d="M65 275 H1135" stroke="url(#neon)" stroke-width="3">
+    <animate attributeName="stroke-dasharray" values="0 1070;535 535;1070 0" dur="4s" repeatCount="indefinite"/>
+  </path>
+</svg>
