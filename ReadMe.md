@@ -1,17 +1,20 @@
-
 <div align="center">
   <img
-    src="./assets/header.svg"
+    src="./assets/headers.svg"
     alt="Jamil Alamin Ahmedin — Backend and API Developer, Data Engineering, AI Voice Agents"
     width="100%"
   />
 
-  <br/>
+  <br/><br/>
 
-  <a href="https://linkedin.com/in/jamil-alamin-ahmedin">LinkedIn</a> ·
-  <a href="mailto:jamil.al.amin1100@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/jamil-alamin-ahmedin">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:jamil.al.amin1100@gmail.com">Email</a>
+  &nbsp;·&nbsp;
   <a href="https://www.datacamp.com/">DataCamp</a>
 </div>
+
+<br/>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
