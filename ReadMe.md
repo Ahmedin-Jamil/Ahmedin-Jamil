@@ -53,7 +53,7 @@ flowchart LR
 | **Stack** | `Python` `FastAPI` `Next.js` `LiveKit` `Supabase` `Google Gemini API` |
 | **Status** | 🟢 In active development |
 
-🔗 **[View the repository →]([https://github.com/Ahmedin-Jamil?tab=repositories](https://github.com/Ahmedin-Jamil/AI_VoiceAgent))** <!-- TODO: replace with the direct repo link -->
+🔗 **[View the repository →](https://github.com/Ahmedin-Jamil/AI_VoiceAgent?tab=repositories)** <!-- TODO: replace with the direct repo link -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
