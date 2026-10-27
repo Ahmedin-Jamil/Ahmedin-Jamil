@@ -152,16 +152,11 @@ University of the Cordilleras · Graduated December 2025<br/>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 📊 GitHub Stats
+## 📊 What I Write
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=Ahmedin-Jamil&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmedin-Jamil&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Ahmedin-Jamil&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmedin-Jamil&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Top languages" />
 
 </div>
 
