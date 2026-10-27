@@ -14,20 +14,29 @@
     <animate attributeName="fill" values="#00e5ff;#8b5cf6;#00ffa3;#00e5ff" dur="4s" repeatCount="indefinite"/>
   </circle> -->
     <!-- Wrap both in a group centered at (600, 25) that rotates 360 degrees -->
-  <g transform="translate(600, 25)">
-    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3s" repeatCount="indefinite" additive="sum"/>
+    <!-- Simulated Code Text that types out slowly -->
+  <g transform="translate(480, 25)">
+    <text x="0" y="5" fill="#00ffa3" font-family="monospace" font-size="14" font-weight="bold" opacity="0.8">
+      SYSTEM.INIT(); RUN_CODEC();
+      <animate attributeName="textLength" values="0;240;240" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0" dur="8s" repeatCount="indefinite" />
+    </text>
 
-    <!-- Your original ball (offset slightly left to orbit) -->
-    <circle cx="-12" cy="0" r="4" fill="#00e5ff">
-      <animate attributeName="r" values="3;6;3" dur="1.5s" repeatCount="indefinite"/>
-      <animate attributeName="fill" values="#00e5ff;#8b5cf6;#00ffa3;#00e5ff" dur="4s" repeatCount="indefinite"/>
+    <!-- Cursor Ball 1: Leads the typing (moves slowly left to right) -->
+    <circle cx="0" cy="0" r="3" fill="#00e5ff">
+      <animate attributeName="cx" values="0;245;245" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="fill" values="#00e5ff;#00ffa3;#00e5ff" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite" />
     </circle>
 
-    <!-- The new playing ball (offset right to chase the first) -->
-    <circle cx="12" cy="0" r="4" fill="#ff007f">
-      <animate attributeName="r" values="6;3;6" dur="1.5s" repeatCount="indefinite"/>
-      <animate attributeName="fill" values="#ff007f;#00ffa3;#ffcc00;#ff007f" dur="4s" repeatCount="indefinite"/>
-    </circle>
+    <!-- Cursor Ball 2: Glitches / Orbits slowly around the lead cursor -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite" />
+      <circle cx="10" cy="0" r="2" fill="#ff007f">
+        <animate attributeName="fill" values="#ff007f;#00ffa3;#ff007f" dur="3s" repeatCount="indefinite" />
+      </circle>
+      <animate attributeName="transform" type="translate" values="0,0; 245,0; 245,0" dur="8s" repeatCount="indefinite" additive="sum" />
+    </g>
   </g>
 
 </svg>
