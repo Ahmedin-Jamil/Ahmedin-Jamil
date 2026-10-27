@@ -26,9 +26,7 @@
   <path d="M70 210 H250 L290 170 H390 M810 170 H910 L950 210 H1130" fill="none" stroke="url(#neon)" stroke-width="2" stroke-dasharray="10 8">
     <animate attributeName="stroke-dashoffset" from="0" to="-72" dur="3s" repeatCount="indefinite"/>
   </path>
-  <text x="600" y="105" text-anchor="middle" fill="#8be9ff" font-family="monospace" font-size="17" letter-spacing="5">BACKEND • DATA • AI</text>
   <text x="600" y="158" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">JAMIL ALAMIN AHMEDIN</text>
-  <text x="600" y="193" text-anchor="middle" fill="#c4b5fd" font-family="Arial, Helvetica, sans-serif" font-size="19">Backend &amp; API Developer | Data Engineering | AI Voice Agents</text>
   <text x="600" y="230" text-anchor="middle" fill="#67e8f9" font-family="monospace" font-size="13">BUILDING SYSTEMS THAT CONNECT DATA, APIS AND INTELLIGENCE</text>
   <path d="M65 275 H1135" stroke="url(#neon)" stroke-width="3">
     <animate attributeName="stroke-dasharray" values="0 1070;535 535;1070 0" dur="4s" repeatCount="indefinite"/>
