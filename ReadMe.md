@@ -1,7 +1,11 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Jamil Alamin Ahmedin - Backend and API developer, data engineering pipelines, AI voice agent builder" width="100%" />
-
+  <img
+    src="./assets/header.svg"
+    alt="Jamil Alamin Ahmedin — Backend Developer"
+    width="100%"
+    style="display: block; max-width: 100%; height: auto;"
+  />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamil-alamin-ahmedin)
