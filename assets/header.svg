@@ -27,6 +27,7 @@
     <animate attributeName="stroke-dashoffset" from="0" to="-72" dur="3s" repeatCount="indefinite"/>
   </path>
   <text x="600" y="158" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">JAMIL ALAMIN AHMEDIN</text>
+  <text x="600" y="193" text-anchor="middle" fill="#c4b5fd" font-family="Arial, Helvetica, sans-serif" font-size="19">Backend &amp; API Developer | Data Engineering | AI Voice Agents</text>
   <text x="600" y="230" text-anchor="middle" fill="#67e8f9" font-family="monospace" font-size="13">BUILDING SYSTEMS THAT CONNECT DATA, APIS AND INTELLIGENCE</text>
   <path d="M65 275 H1135" stroke="url(#neon)" stroke-width="3">
     <animate attributeName="stroke-dasharray" values="0 1070;535 535;1070 0" dur="4s" repeatCount="indefinite"/>
