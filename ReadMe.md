@@ -7,9 +7,12 @@
 
 <br/>
 
-  <a href="https://linkedin.com/in/jamil-alamin-ahmedin">LinkedIn</a> ·
-  <a href="mailto:jamil.al.amin1100@gmail.com">Email</a> ·
-  <a href="https://www.datacamp.com/">DataCamp</a>
+<br/>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamil-alamin-ahmedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamil.al.amin1100@gmail.com)
+[![DataCamp](https://img.shields.io/badge/Associate_Data_Engineer-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)]([https://linkedin.com/in/jamil-alamin-ahmedin](https://www.datacamp.com/certificate/DEA0019372604408))
+
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
