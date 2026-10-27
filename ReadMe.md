@@ -1,10 +1,13 @@
 <div align="center">
 
+<div align="center">
   <img
     src="./assets/header.svg"
     alt="Jamil Alamin Ahmedin — Backend Developer"
     width="100%"
     style="display: block; max-width: 100%; height: auto;"
+  />
+</div>
   />
 <br/>
 
