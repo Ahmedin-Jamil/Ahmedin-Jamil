@@ -9,8 +9,25 @@
   <path d="M0 25 H1200" stroke="url(#line)" stroke-width="2" stroke-dasharray="12 8">
     <animate attributeName="stroke-dashoffset" from="0" to="-100" dur="4s" repeatCount="indefinite"/>
   </path>
-  <circle cx="600" cy="25" r="4" fill="#00e5ff">
+ <!-- <circle cx="600" cy="25" r="4" fill="#00e5ff">
     <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
     <animate attributeName="fill" values="#00e5ff;#8b5cf6;#00ffa3;#00e5ff" dur="4s" repeatCount="indefinite"/>
-  </circle>
+  </circle> -->
+    <!-- Wrap both in a group centered at (600, 25) that rotates 360 degrees -->
+  <g transform="translate(600, 25)">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3s" repeatCount="indefinite" additive="sum"/>
+
+    <!-- Your original ball (offset slightly left to orbit) -->
+    <circle cx="-12" cy="0" r="4" fill="#00e5ff">
+      <animate attributeName="r" values="3;6;3" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#00e5ff;#8b5cf6;#00ffa3;#00e5ff" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- The new playing ball (offset right to chase the first) -->
+    <circle cx="12" cy="0" r="4" fill="#ff007f">
+      <animate attributeName="r" values="6;3;6" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#ff007f;#00ffa3;#ffcc00;#ff007f" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
 </svg>
