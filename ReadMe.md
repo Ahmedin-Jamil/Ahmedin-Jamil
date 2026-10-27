@@ -1,6 +1,4 @@
 <div align="center">
-
-<div align="center">
   <img
     src="./assets/header.svg"
     alt="Jamil Alamin Ahmedin — Backend Developer"
