@@ -12,7 +12,6 @@
  <circle cx="600" cy="25" r="4" fill="#00e5ff">
     <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
     <animate attributeName="fill" values="#00e5ff;#8b5cf6;#00ffa3;#00e5ff" dur="4s" repeatCount="indefinite"/>
-  </circle> -->
-    <!-- Wrap both in a group centered at (600, 25) that rotates 360 degrees -->
-    <!-- Simulated Code Text that types out slowly 
+  </circle>
+
 </svg>
