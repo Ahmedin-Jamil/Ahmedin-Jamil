@@ -8,7 +8,6 @@
     style="display: block; max-width: 100%; height: auto;"
   />
 </div>
-  />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamil-alamin-ahmedin)
