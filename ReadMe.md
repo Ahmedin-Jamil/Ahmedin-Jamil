@@ -1,9 +1,14 @@
 <div align="center">
-
-<img src="./assets/header.svg" alt="Jamil Alamin Ahmedin - Backend and API developer, data engineering pipelines, AI voice agent builder" width="100%" />
+  <img
+    src="./assets/header.svg"
+    alt="Jamil Alamin Ahmedin — Backend and API Developer, Data Engineering, AI Voice Agents"
+    width="100%"
+  />
 
 <br/>
 
+<br/>
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamil-alamin-ahmedin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamil.al.amin1100@gmail.com)
 [![DataCamp](https://img.shields.io/badge/Associate_Data_Engineer-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)](https://www.datacamp.com/certificate/DEA0019372604408)
@@ -11,6 +16,7 @@
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
+
 
 ## 👋 About Me
 
@@ -47,7 +53,7 @@ flowchart LR
 | **Stack** | `Python` `FastAPI` `Next.js` `LiveKit` `Supabase` `Google Gemini API` |
 | **Status** | 🟢 In active development |
 
-🔗 **[View the repository →](https://github.com/Ahmedin-Jamil/AI_VoiceAgent)**
+🔗 **[View the repository →](https://github.com/Ahmedin-Jamil/AI_VoiceAgent?tab=repositories)** <!-- TODO: replace with the direct repo link -->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -146,25 +152,20 @@ University of the Cordilleras · Graduated December 2025<br/>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 📊 What I Write
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmedin-Jamil&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=Ahmedin-Jamil&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmedin-Jamil&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Ahmedin-Jamil&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
-
-<div align="center">
-
-<img src="./assets/pixel-bot.svg" alt="Pixel robot mascot looking around" width="240" />
-
-<!-- After GitHub Pages is live, uncomment this line:
-<sub>👀 Want to see him follow your cursor? <a href="https://ahmedin-jamil.github.io">Open the live version</a></sub>
--->
-
-</div>
 
 <div align="center">
 
