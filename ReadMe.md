@@ -17,7 +17,7 @@ Most data problems start before a single chart is built. My ERP background taugh
 - **Core Focus:** SQL (PostgreSQL), Power BI, Excel modeling, and Supply Chain / Retail KPI analytics
 - **Enterprise Foundation:** SAP S/4HANA concepts, SAP Fiori, SAP Analytics Cloud, and P2P / O2C / R2R lifecycles
 - **Data Architecture:** Medallion Lakehouse (Bronze / Silver / Gold), Azure Data Factory, Databricks, Snowflake, and dbt
-- **Applied AI:** Practical workflow routing and conversational Arabic voice prototypes grounded in structured databases
+- **Applied AI:** Practical NLP and LLM workflow routing (Hugging Face, Gemini API) grounded in structured relational databases
 
 ---
 
@@ -28,24 +28,8 @@ Most data problems start before a single chart is built. My ERP background taugh
 | **[Azure E-Commerce Data Lakehouse](https://github.com/Ahmedin-Jamil/Azure-EcommerceProject)**<br/><sub>End-to-End Cloud Pipeline</sub> | Medallion Architecture (`Bronze -> Silver -> Gold`) built on the Olist e-commerce dataset, transforming raw transactional data into analytics-ready tables for BI reporting. | `Azure Data Factory` `ADLS Gen2` `Databricks` `Synapse` `Power BI` |
 | **[ERP & CRM Wholesale Lakehouse](https://github.com/Ahmedin-Jamil/Databricks_Jamil-1)**<br/><sub>Data Warehousing Project</sub> | Integrates multi-source ERP (customers, products) and CRM (orders, line items) wholesale datasets into structured analytical models on Azure Databricks. | `Databricks` `SQL` `PySpark` `Medallion Architecture` |
 | **[Real-Time Stock Market Data Pipeline](https://github.com/Ahmedin-Jamil/real-time-stocks-mds)**<br/><sub>Modern Data Stack</sub> | Automated streaming pipeline ingesting live market quotes via API into Snowflake and transforming raw tables with dbt for Power BI dashboards. | `Kafka` `Airflow` `Snowflake` `dbt` `Power BI` |
-| **[AI Voice Agent Platform](https://github.com/Ahmedin-Jamil/AI_VoiceAgent)**<br/><sub>Applied AI Prototype</sub> | Arabic-speaking voice receptionist prototype for Saudi businesses, connecting conversational AI to Supabase PostgreSQL for CRM lookup, call logs, and lead capture. | `Google Gemini API` `LiveKit` `FastAPI` `Supabase` `Next.js` |
 | **Baguio Pet Boarding System**<br/><sub>Capstone · Live Business Adoption</sub> | Online reservation and scheduling web system backed by PostgreSQL, adopted by a local business for live daily operations. | `PostgreSQL` `React` `Express.js` |
 | **AI Student Support Platform**<br/><sub>Internship · OSAS</sub> | Relational Supabase/PostgreSQL schema, CBT/mood tracking workflows, and Hugging Face sentiment routing directing urgent student concerns to university departments. | `PostgreSQL` `Supabase` `Hugging Face` |
-
-#### Architecture Highlight: Arabic Voice Agent Prototype
-
-```mermaid
-flowchart LR
-    C["Caller"] -->|real-time audio| L["LiveKit"]
-    L --> A["FastAPI Agent Service"]
-    A -->|context + prompt| G["Google Gemini API"]
-    G -->|Arabic reply| A
-    A <-->|customers · call logs · leads| S[("Supabase / PostgreSQL")]
-    A -->|common phrases| M["Pre-rendered Audio Cache"]
-    M --> L
-    A -->|streamed reply| L
-    L --> C
-```
 
 ---
 
@@ -56,7 +40,7 @@ flowchart LR
 | **BI, Databases & Analytics** | SQL, PostgreSQL, Power BI, Excel Modeling, Supabase |
 | **Enterprise Systems (ERP)** | SAP S/4HANA, SAP Fiori, SAP Analytics Cloud, SAP ABAP, P2P / O2C / R2R |
 | **Data Warehousing & Cloud** | Azure Data Factory, ADLS Gen2, Databricks, Azure Synapse, Snowflake, dbt, Kafka, Airflow |
-| **Applied AI & Development** | Google Gemini API, Hugging Face, Python, FastAPI, JavaScript, React, Docker, Git |
+| **Applied AI & Development** | Hugging Face, Google Gemini API, Python, JavaScript, React, Docker, Git |
 
 ---
 
