@@ -10,9 +10,9 @@
 
 ### About
 
-Information Technology graduate (**BSIT, Major in Enterprise Resource Planning**, University of the Cordilleras) and **DataCamp Certified Associate Data Engineer** based in Jeddah, Saudi Arabia.
+I am an Information Technology graduate (**BSIT, Major in Enterprise Resource Planning**, University of the Cordilleras) and a **DataCamp Certified Associate Data Engineer** based in Jeddah, Saudi Arabia.
 
-Most data problems start before a single chart is built. My ERP background taught me how real businesses generate data across sales, procurement, and operations. From there, I moved across the full data lifecycle: relational databases, cloud data warehousing, Business Intelligence, and practical AI integration.
+My background starts with how companies run core operations in ERP systems across sales, procurement, and finance. From there, I work across the data layer: relational databases, cloud data warehousing, Business Intelligence, and practical AI integration.
 
 - **Core Focus:** SQL (PostgreSQL), Power BI, Excel modeling, and Supply Chain / Retail KPI analytics
 - **Enterprise Foundation:** SAP S/4HANA concepts, SAP Fiori, SAP Analytics Cloud, and P2P / O2C / R2R lifecycles
@@ -76,7 +76,5 @@ University of the Cordilleras · Graduated December 2025<br/>
 - **Managing Clean Core for SAP S/4HANA Cloud** · SAP Learning Hub *(Sep 2024)*
 
 ---
-
-**Languages:** Arabic (Native) · Tigrinya (Native) · English (Fluent) · German (A1)
 
 Open to opportunities and collaboration in **BI, Enterprise Data, Supply Chain Analytics, and Applied AI**. Connect on [LinkedIn](https://linkedin.com/in/jamil-alamin-ahmedin) or via [email](mailto:jamil.al.amin1100@gmail.com).
