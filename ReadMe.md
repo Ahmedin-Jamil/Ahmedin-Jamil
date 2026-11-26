@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-  <img alt="Jamil Alamin Ahmedin | BI &amp; Data Analyst, ERP Systems (SAP), Applied AI" src="./assets/header-light.svg" width="100%" />
-</picture>
+<img alt="Jamil Alamin Ahmedin | BI &amp; Data Analyst, ERP Systems (SAP), Applied AI" src="./assets/header.svg" width="100%" />
 
 <p align="left">
   <a href="https://linkedin.com/in/jamil-alamin-ahmedin"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
